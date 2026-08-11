@@ -1,0 +1,6 @@
+noun1 = input("Choose an animal: ")
+pnoun1 = input("Choose a plural noun: ")
+noun2 = input("Choose another noun: ")
+place = input("Choose a place: ")
+adjective = input("Choose an adjective: ")
+print("Did you know I have a pet " + noun1 + " named Ed? He loves to run around and play with all of the " + pnoun1 + "! One morning I woke up and saw a " + noun2 + " on his head! I really like taking him to the " + place + " because he likes to show his " + adjective + " side there!")
